@@ -1,0 +1,14 @@
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\bin\Debug\netcoreapp3.1\RegisterAndLogin.exe
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\bin\Debug\netcoreapp3.1\RegisterAndLogin.deps.json
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\bin\Debug\netcoreapp3.1\RegisterAndLogin.runtimeconfig.json
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\bin\Debug\netcoreapp3.1\RegisterAndLogin.runtimeconfig.dev.json
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\bin\Debug\netcoreapp3.1\RegisterAndLogin.dll
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\bin\Debug\netcoreapp3.1\RegisterAndLogin.pdb
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\obj\Debug\netcoreapp3.1\RegisterAndLogin.csproj.AssemblyReference.cache
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\obj\Debug\netcoreapp3.1\RegisterAndLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\obj\Debug\netcoreapp3.1\RegisterAndLogin.AssemblyInfoInputs.cache
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\obj\Debug\netcoreapp3.1\RegisterAndLogin.AssemblyInfo.cs
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\obj\Debug\netcoreapp3.1\RegisterAndLogin.csproj.CoreCompileInputs.cache
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\obj\Debug\netcoreapp3.1\RegisterAndLogin.dll
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\obj\Debug\netcoreapp3.1\RegisterAndLogin.pdb
+C:\Users\Durak\Desktop\RegisterAndLogin\RegisterAndLogin\obj\Debug\netcoreapp3.1\RegisterAndLogin.genruntimeconfig.cache
